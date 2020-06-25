@@ -1,0 +1,21 @@
+{
+    "name": "com.unity.reflect.ar",
+    "displayName": "Unity Reflect AR",
+    "version": "1.2.0-preview.26",
+    "unity": "2019.1",
+    "description": "Unity Reflect importer used for Autodesk Revit to Unity and other AEC-Industial workflow. The package contains the AR implementation of Reflect",
+    "host": "editor",
+    "keywords": [
+        "unity",
+        "aec",
+        "industrial",
+        "revit",
+        "sketchup"
+    ],
+    "dependencies": {
+        "com.unity.reflect": "1.2.0-preview.26",
+        "com.unity.xr.arfoundation": "2.1.4",
+        "com.unity.xr.arkit": "2.1.2",
+        "com.unity.xr.arcore": "2.1.2"
+    }
+}
